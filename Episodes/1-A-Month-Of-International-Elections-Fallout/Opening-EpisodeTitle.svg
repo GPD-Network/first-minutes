@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="1920"
+   viewBox="0 0 1080 1920"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="Opening-EpisodeTitle.svg"
+   inkscape:export-filename="Opening-ShowTitle-1.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:clip-to-page="true"
+     showguides="true"
+     inkscape:zoom="0.35634119"
+     inkscape:cx="543.0189"
+     inkscape:cy="861.53386"
+     inkscape:window-width="1232"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="196.5396,1568.6206"
+       orientation="1,0"
+       id="guide6"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="951.79584,1644.4784"
+       orientation="0,-1"
+       id="guide7"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-1055.1685,763.80473"
+       orientation="0,-1"
+       id="guide8"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#afe9c6;stroke-width:0;paint-order:markers fill stroke;fill-opacity:1"
+       id="rect1"
+       width="1324.5732"
+       height="2023.3417"
+       x="-61.738583"
+       y="-72.963783"
+       ry="38.401958"
+       inkscape:label="Background Rectangle Color Fill" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text">
+    <text
+       xml:space="preserve"
+       style="font-size:133.052px;line-height:0.7;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';writing-mode:lr-tb;direction:ltr;display:inline;fill:#e242c7;fill-opacity:1;stroke:none;stroke-width:0;paint-order:markers fill stroke"
+       x="187.37793"
+       y="1481.542"
+       id="text5"
+       inkscape:label="Newscast"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="0"
+         y="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.052px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#e242c7;stroke-width:0">Newscast</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:133.052px;line-height:0.7;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';writing-mode:lr-tb;direction:ltr;display:inline;fill:#9042e2;fill-opacity:1;stroke:none;stroke-width:0;paint-order:markers fill stroke"
+       x="193.49825"
+       y="1262.0388"
+       id="text4"
+       inkscape:label="Shortform"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="0"
+         y="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.052px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#9042e2;fill-opacity:1;stroke-width:0">Shortform</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:190.834px;line-height:0.7;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';writing-mode:lr-tb;direction:ltr;display:inline;fill:#42e27b;fill-opacity:1;stroke:none;stroke-width:0;paint-order:markers fill stroke"
+       x="184.57947"
+       y="743.22626"
+       id="text3"
+       inkscape:label="Minutes"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="0"
+         y="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:190.834px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#42e27b;fill-opacity:1;stroke-width:0">Minutes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:190.834px;line-height:0.7;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';writing-mode:lr-tb;direction:ltr;fill:#d620c0;fill-opacity:1;stroke:none;stroke-width:0;paint-order:markers fill stroke"
+       x="184.57947"
+       y="424.00751"
+       id="text1"
+       inkscape:label="First"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="184.57947"
+         y="424.00751"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:190.834px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#d620c0;fill-opacity:1;stroke-width:0">First</tspan></text>
+  </g>
+</svg>
